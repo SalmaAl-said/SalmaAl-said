@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 ### 🛠 &nbsp;Tech Stack
-![C++](https://img.shields.io/badge/C++-%23049fd9.svg?style=flat&logo=C++&logoColor=black)
+![cpp](https://custom-icon-badges.demolab.com/badge/C++-013.svg?style=for-the-badge&logo=cpp2&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
